@@ -20,3 +20,4 @@ new schedule edit
 new schedule edit
 new schedule edit
 new test
+trigger test 2
